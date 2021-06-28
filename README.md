@@ -1,2 +1,2 @@
 # Online-food-service_files frontend:
-HTML,CSS, Static Web
+HTML,CSS, Static Web Page
